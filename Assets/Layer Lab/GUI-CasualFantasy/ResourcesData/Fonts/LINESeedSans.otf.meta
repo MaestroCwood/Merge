@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 672723d8d54df4f998621d9f268c4afa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 60
+  forceTextureCase: 3
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - LINE Seed Sans
+  fallbackFontReferences: []
+  customCharacters: "1234567890awd\u0444\u0446\u0432"
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
